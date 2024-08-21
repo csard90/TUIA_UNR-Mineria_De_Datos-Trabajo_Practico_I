@@ -15,3 +15,4 @@ Fecha: 10/2023
 * K-means
 * Clustering jerarquico
 
+Leer 'enunciado_tp_01.pdf'.
